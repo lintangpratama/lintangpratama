@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lintangpratama
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Next.js
 - 📫 How to reach me lintangajiyogapratama@gmail.com
 
 <!---
