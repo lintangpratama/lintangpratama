@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lintangpratama
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.js and Next.js
+- 👀 I’m a Full-Stack Web Developer
+- 🌱 Building with JavaScript Environment (React.js, Next.js, Vue.js, Express.js, etc.)
 - 📫 Reach me at lintangajiyogapratama@gmail.com
 
 <!---
